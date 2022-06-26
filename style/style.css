@@ -1,17 +1,4 @@
-body{
-	background-color: gray;
+h6{
+ display:list-item;
 }
-
-#menu{
- width:200px;
- background:yellow;
-}
-#menu a{
- color:#2b3845;
- text-decoration:none;
- display:block;
-}
-#menu a:hover{
- color:#92A9BF;
- background:blue;
-}
+  
